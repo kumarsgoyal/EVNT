@@ -1,4 +1,6 @@
+// replace  mongourl with yours
+
 module.exports = {
-    mongourl: "mongodb+srv://sahil:sahil@evntworks-ichbp.mongodb.net/test?retryWrites=true&w=majority",
+    mongourl: "mongodb+srv://<user>:<paswword>@*******************************************",
     secretOrKey: "secret"
   }
